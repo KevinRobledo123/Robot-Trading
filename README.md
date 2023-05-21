@@ -1,3 +1,4 @@
 # Robot-Trading
 Robot Trading en Python capaz de tomar decisiones de compra y venta de Bitcoin en tiempo real.
-https://raw.githubusercontent.com/KevinRobledo123/Robot-Trading/main/Badge-Challenge-1.png
+
+[![Badge-Challenge-1.png](https://i.postimg.cc/44DHDL8X/Badge-Challenge-1.png)](https://postimg.cc/DmczsgkN)
